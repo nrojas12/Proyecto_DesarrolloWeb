@@ -11,7 +11,7 @@
 	<groupId>com.tienda</groupId>
 	<artifactId>tienda</artifactId>
 	<version>1</version>
-	<name>tienda</name>
+	<name>Proyecto_DesarrolloWeb</name>
 	<description>Proyecto Tienda Lunes IIIC 2023</description>
 	<properties>
 		<java.version>20</java.version>
